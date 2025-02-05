@@ -2,7 +2,7 @@ Gerenciador de Funcionários
 
 Este projeto é um sistema de gerenciamento de funcionários que realiza diversas operações como cadastramento, remoção, aumento de salário, agrupamento por função e cálculo da quantidade de salários mínimos equivalentes ao salário de cada funcionário.
 
-Funcionalidades
+#Funcionalidades
 
 Adicionar Funcionários com nome, data de nascimento, salário e função.
 
@@ -20,7 +20,7 @@ Exibir os aniversariantes de outubro e dezembro.
 
 Encontrar e exibir o funcionário mais velho.
 
-📚 Estrutura do Código
+#Estrutura do Código
 
 O código é estruturado da seguinte forma:
 
@@ -46,7 +46,7 @@ printEmployeesByBirthdayMonth() → Exibe os aniversariantes de outubro e dezemb
 
 printOldestEmployee() → Exibe o funcionário mais velho.
 
-🛠️ Decisões de Implementação
+#Decisões de Implementação
 
 BigDecimal foi usado para cálculos financeiros, garantindo precisão.
 
